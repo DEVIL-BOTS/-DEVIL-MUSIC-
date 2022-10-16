@@ -1,11 +1,11 @@
-<h1 align="centre">W2HMUSIC1 .0 🎵</h1>
+<h1 align="centre">『DEVIL-MUSIC』</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@W2H_MUSIC1_bot](https://t.me/W2H_MUSIC_1_BOT)
+#### POWERED BY [DEVIL-BOTS](https://github.com/DEVIL-BOTS)
+### Available on telegram as [『DEVIL-MUSIC』](https://t.me/W2H_MUSIC_1_BOT)
 
 <p align="center">
-  <img src="https://telegra.ph/file/bfdae5228dbe6d1c92f93.jpg">
+  <img src="https://te.legra.ph/file/f117ba18c1227cb34eff8.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,8 +26,8 @@
 
 ### 💜 Heroku/Railway
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W2HGalaxy-OP/W2HMUSIC1)
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/W2HGalaxy-OP/W2HMUSIC1&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEVIL-BOTS/-DEVIL-MUSIC-)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DEVIL-BOTS/-DEVIL-MUSIC-&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -36,13 +36,13 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/W2HGalaxy-OP/W2HMUSIC1
-$ cd W2HMUSIC1
+$ git clone https://github.com/DEVIL-BOTS/-DEVIL-MUSIC-
+$ cd 『DEVIL-MUSIC』
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
 # Fork This Repo and fill config.py vars with your own values.Then Start The Bot
-$ python3 -m W2HMUSIC1
+$ python3 -m 『DEVIL-MUSIC』
 ```
 
 ### Commands for Group 🛠
@@ -105,37 +105,3 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
-
-
-
-### Inspiration
-- [Callsmusic](http://github.com/callsmusic/callsmusic)
-- [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot)
-
-This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork W2HMUSIC1 won't exist. 
-Also W2HMUSIC1 is inspired by many opensource bots and userbots
-
-### Don't Edit This Part
-
-#### Developers &Contribtors
-- [InukaASiTH](https://github.com/InukaAsith): Dev/Owner
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev/Owner
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev/Owner
-- [Rojserbest](http://github.com/rojserbest): Dev of callsmusic
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [HamkerCat](https://github.com/thehamkercat/)
-- [AnjanaMadu](https://github.com/AnjanaMadu): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [MARSHALX](https://github.com/MarshalX): TgCalls
-- [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
-- [DaisyxBot](https://github.com/TeamDaisyX/DaisyXMusic)
-
-## Copyright & License 👮
-
- - Copyright (C) 2020 - 2021 by [W2HGalaxy-OP](github.com/W2HGalaxy-OP) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/W2HGalaxy-OP/W2HMUSIC1/blob/master/LICENSE)
-    
-W2HMUSIC1 is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [W2HGalaxy-OP](https://github.com/W2HGalaxy-OP)
